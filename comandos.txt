@@ -3,3 +3,6 @@ git commit -m “Mensagem do Commit” - Realiza o commit (versionamento) do(s) 
 git status - Mostra o status atual dos arquivos no repositório
 git log - Mostra o histórico de commits realizados no repositório
 git branch -M main - Cria/renomeia a branch atual para main
+
+
+Alteração branch dev-1
